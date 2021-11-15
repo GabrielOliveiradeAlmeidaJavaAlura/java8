@@ -1,4 +1,4 @@
-package br.com.alura;
+ package br.com.alura;
 
 public class Aula implements Comparable<Aula> {
 
